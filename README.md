@@ -1,2 +1,2 @@
 # Analysis-and-Prediction-of-Mars-Environmental-Dynamics-using-Deep-Learning
-This project presents a data-driven analysis of Martian environmental conditions.
+This project presents a data-driven analysis of Martian environmental conditions using calibrated measurements collected by the Mars Environmental  Dynamics Analyzer (MEDA) instrument onboard NASA’s Perseverance  rover, currently operating in Jezero Crater as part of the Mars 2020 mission.The study focuses on identifying patterns in Martian temperature and wind behavior and predicting future values using deep learning models.
